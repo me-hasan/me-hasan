@@ -19,9 +19,9 @@ As a leader, I embrace Agile methodologies to enhance team productivity, and I s
 <br/>
 
 
-
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=me-hasan&show_icons=true&locale=en&layout=compact" alt="me-hasan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=me-hasan&show_icons=true&locale=en" alt="me-hasan" /></p>
-
+</div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=me-hasan&" alt="me-hasan" /></p>
