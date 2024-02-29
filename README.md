@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Md Khayrul Hasan</h1>
 <h3 align="left">A passionate backend developer from Bangladesh</h3>
-<p>With over ten years of experience in software engineering, solution architecture, and project management, I am a seasoned professional leading the development and implementation of advanced software solutions. My expertise lies in delivering high-quality, scalable, and secure software products, often surpassing client and stakeholder expectations. 
+<p>With a decade of experience in the software industry, including roles in solution architecture and project management, I have a strong background in guiding the develop and implementation of sophisticated software solutions. I pride myself on consistently delivering software products that are not only of high quality but also scalable and secure, often exceeding the expectations of clients and stakeholders.
 
-My technical proficiency covers a broad range of areas, including PHP, microservices, DevOps, and cloud computing. I have also completed a comprehensive 36-hour Project Management Professional (PMP) workshop, enhancing my project execution skills.
+My technical skills span a variety of areas, such as PHP, microservices, DevOps, and cloud computing. Additionally, I've completed an extensive 36-hour Project Management Professional (PMP) workshop, which has further honed my skills in project execution.
 
-I excel in full-stack development, with a seven-year focus on writing clean, efficient code for large-scale web applications. I apply key software development principles like SOLID, TDD, and DDD, and am adept at creating robust system designs. 
+In the realm of full-stack development, I have dedicated seven years to crafting clean and efficient code for large-scale web applications. My approach is grounded in fundamental software development principles like SOLID, TDD, and DDD, and I'm skilled in developing strong system designs.
 
-As a team leader, I implement Agile methodologies to maximize team productivity and maintain composure under pressure, ensuring successful project completion. My dedication to excellence in software development and project management drives my ongoing success in the dynamic tech industry.</p>
+As a leader, I embrace Agile methodologies to enhance team productivity, and I strive to remain calm and focused even in high-pressure situations, ensuring the successful completion of projects. My commitment to excellence in both software development and project management is a cornerstone of my career in the ever-changing landscape of technology.</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
