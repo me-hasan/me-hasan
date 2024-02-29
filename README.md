@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Md Khayrul Hasan</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+<h3 align="left">A passionate backend developer from Bangladesh</h3>
+<p>With over ten years of experience in software engineering, solution architecture, and project management, I am a seasoned professional leading the development and implementation of advanced software solutions. My expertise lies in delivering high-quality, scalable, and secure software products, often surpassing client and stakeholder expectations. 
+
+My technical proficiency covers a broad range of areas, including PHP, microservices, DevOps, and cloud computing. I have also completed a comprehensive 36-hour Project Management Professional (PMP) workshop, enhancing my project execution skills.
+
+I excel in full-stack development, with a seven-year focus on writing clean, efficient code for large-scale web applications. I apply key software development principles like SOLID, TDD, and DDD, and am adept at creating robust system designs. 
+
+As a team leader, I implement Agile methodologies to maximize team productivity and maintain composure under pressure, ensuring successful project completion. My dedication to excellence in software development and project management drives my ongoing success in the dynamic tech industry.</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
