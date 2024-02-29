@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Khayrul Hasan</h1>
+<h1 align="left">Hi 👋, I'm Md Khayrul Hasan</h1>
 <h3 align="left">A passionate backend developer from Bangladesh</h3>
 <p>With a decade of experience in the software industry, including roles in solution architecture and project management, I have a strong background in guiding the develop and implementation of sophisticated software solutions. I pride myself on consistently delivering software products that are not only of high quality but also scalable and secure, often exceeding the expectations of clients and stakeholders.
 
