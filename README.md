@@ -21,7 +21,6 @@ As a leader, I embrace Agile methodologies to enhance team productivity, and I s
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=me-hasan&" alt="me-hasan" /></p>
 
 
 
