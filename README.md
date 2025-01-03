@@ -1,12 +1,26 @@
 <h1 align="left">Hi 👋, I'm Md Khayrul Hasan</h1>
 <h3 align="left">A passionate backend developer from Bangladesh</h3>
-<p>With a decade of experience in the software industry, including roles in solution architecture and project management, I have a strong background in guiding the develop and implementation of sophisticated software solutions. I pride myself on consistently delivering software products that are not only of high quality but also scalable and secure, often exceeding the expectations of clients and stakeholders.
+<p>Career Summary: 
+• Results-driven professional with extensive experience in software development, leading high-performing development teams and architecting scalable backend systems using Node.js, PHP-Laravel, Java Spring Boot, and microservices architectures.
+• Proven track record of optimizing cloud infrastructure and implementing distributed systems to enhance operational efficiency and ensure scalability, and maintainability with robust security protocols.
+• Recognized for significantly increasing system performance, reducing deployment times, and achieving high code quality standards, resulting in bug-free release and enhanced user satisfaction. 
 
-My technical skills span a variety of areas, such as PHP, microservices, DevOps, and cloud computing. Additionally, I've completed an extensive 36-hour Project Management Professional (PMP) workshop, which has further honed my skills in project execution.
-
-In the realm of full-stack development, I have dedicated seven years to crafting clean and efficient code for large-scale web applications. My approach is grounded in fundamental software development principles like SOLID, TDD, and DDD, and I'm skilled in developing strong system designs.
-
-As a leader, I embrace Agile methodologies to enhance team productivity, and I strive to remain calm and focused even in high-pressure situations, ensuring the successful completion of projects. My commitment to excellence in both software development and project management is a cornerstone of my career in the ever-changing landscape of technology.</p>
+Objective: To work as a strategic leader, leveraging expertise in backend development to drive innovation.
+ 
+Key Proficiencies: 
+ 
+• Backend System Architecture
+• Cloud Infrastructure Optimization
+• RESTful, WebSocket & GraphQL API 
+• Team Leadership & Development
+• DevOps-Automation (Docker, Kubernetes)
+• Continuous Integration & Delivery (CI/CD)
+• Distributed system design and develop
+• Security Protocols Implementation
+• Database Management & Optimization
+• Agile Project Management
+• Cost Management & Analysis
+• ETL Pipeline and Dashboard Development</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
